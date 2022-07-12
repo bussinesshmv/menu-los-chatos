@@ -1,0 +1,76 @@
+{
+  "desayunos": [
+    {
+      "nombre": "Huevos al gusto",
+      "detalle": "rancheros, con jamón, estrellados, con chorizo, etc.",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Sincronizadas",
+      "detalle": "Deliciosas sincronizadas",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Molletes",
+      "detalle": "Queso, pico de gallo",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Enfrijoladas",
+      "detalle": "deliciosas enfrijoladas",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Omelette de huevo",
+      "detalle": "Jamón con queso, chorizo con queso, queso",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Chilaquiles",
+      "detalle": "Verdes o rojos",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Enchiladas",
+      "detalle": "Verdes o rojas, incluyen café o fruta",
+      "precio": "$ 50"
+    }
+  ],
+  "menu": [
+    {
+      "nombre": "Tacos",
+      "detalle": "Bistec, Cesina enchilada, longaniza, campechanos",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Hamburguesas",
+      "detalle": "Sencillas y hawuaianas",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Alitas",
+      "detalle": "Adobadas y BBQ",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Pozole",
+      "detalle": "De pollo o puerco",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Pancita",
+      "detalle": "Sencillas y hawuaianas",
+      "precio": "$ 50"
+    }
+  ],
+  "bebidas": [
+    {
+      "nombre": "Cerveza",
+      "precio": "$ 50"
+    },
+    {
+      "nombre": "Refresco",
+      "precio": "$ 50"
+    }
+  ]
+}
